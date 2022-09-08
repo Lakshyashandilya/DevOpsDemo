@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-01T00:59:13 IST" name="Automation Suite" finished-at="2022-09-01T00:59:27 IST" duration-ms="13721">
+  <suite started-at="2022-09-09T05:20:38 IST" name="Default suite" finished-at="2022-09-09T05:20:54 IST" duration-ms="16197">
     <groups>
     </groups>
-    <test started-at="2022-09-01T00:59:13 IST" name="Register Demo Test Case" finished-at="2022-09-01T00:59:27 IST" duration-ms="13721">
+    <test started-at="2022-09-09T05:20:38 IST" name="Default test" finished-at="2022-09-09T05:20:54 IST" duration-ms="16197">
       <class name="com.telus.testcase.RegisterUserDemo">
-        <test-method signature="launchApplication()[pri:1, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-01T00:59:13 IST" name="launchApplication" finished-at="2022-09-01T00:59:19 IST" duration-ms="5873" status="PASS">
+        <test-method signature="launchApplication()[pri:1, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-09T05:20:38 IST" name="launchApplication" finished-at="2022-09-09T05:20:44 IST" duration-ms="6858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="navigateToRegistrationForm()[pri:2, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-01T00:59:19 IST" name="navigateToRegistrationForm" finished-at="2022-09-01T00:59:21 IST" duration-ms="1731" status="PASS">
+        <test-method signature="navigateToRegistrationForm()[pri:2, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-09T05:20:44 IST" name="navigateToRegistrationForm" finished-at="2022-09-09T05:20:47 IST" duration-ms="3039" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToRegistrationForm -->
-        <test-method signature="registerForDemo()[pri:3, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-01T00:59:21 IST" name="registerForDemo" finished-at="2022-09-01T00:59:24 IST" duration-ms="3549" status="PASS">
+        <test-method signature="registerForDemo()[pri:3, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-09T05:20:47 IST" name="registerForDemo" finished-at="2022-09-09T05:20:51 IST" duration-ms="3716" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerForDemo -->
-        <test-method signature="validateSuccessfullMsg()[pri:4, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-01T00:59:24 IST" name="validateSuccessfullMsg" finished-at="2022-09-01T00:59:24 IST" duration-ms="72" status="PASS">
+        <test-method signature="validateSuccessfullMsg()[pri:4, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-09T05:20:51 IST" name="validateSuccessfullMsg" finished-at="2022-09-09T05:20:51 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSuccessfullMsg -->
-        <test-method signature="closeApplication()[pri:5, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-01T00:59:24 IST" name="closeApplication" finished-at="2022-09-01T00:59:27 IST" duration-ms="2434" status="PASS">
+        <test-method signature="closeApplication()[pri:5, instance:com.telus.testcase.RegisterUserDemo@316bcf94]" started-at="2022-09-09T05:20:51 IST" name="closeApplication" finished-at="2022-09-09T05:20:54 IST" duration-ms="2447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.telus.testcase.RegisterUserDemo -->
-    </test> <!-- Register Demo Test Case -->
-  </suite> <!-- Automation Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

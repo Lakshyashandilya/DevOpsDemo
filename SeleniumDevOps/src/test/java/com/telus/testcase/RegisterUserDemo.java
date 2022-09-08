@@ -50,6 +50,8 @@ public class RegisterUserDemo {
 
 		// Creating Instance of Chrome driver
 		driver = new ChromeDriver();
+		
+		
 		//page load wait is updated by lakshya
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 
